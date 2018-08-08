@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 123
 
 
 
 
 qhfdsa
-=======
-qhf123
->>>>>>> a0048be1f3d57de2ed15483c4cc0d4f29eb4be89
